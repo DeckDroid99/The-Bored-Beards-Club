@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x62Dbe56eCF3c7ddb89996C1E1F16436fFC42dbD8",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x62dbe56ecf3c7ddb89996c1e1f16436ffc42dbd8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Bored Beards Club",
+  "SYMBOL": "TBBNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-bored-beards-club",
+  "SHOW_BACKGROUND": true
+}
